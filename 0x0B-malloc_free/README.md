@@ -1,1 +1,1 @@
-#!/bin/bash
+malloc free
